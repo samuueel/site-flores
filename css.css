@@ -175,7 +175,7 @@ h3 {
   height: 240px;
   padding: 30px;
   color: rgb(162, 0, 255);
-  background: url('/img/banner.jpg') center #333 no-repeat;
+  background: url('./img/banner.jpg') center #333 no-repeat;
   background-size: cover;
   text-shadow: 2px 2px 5px #000;
   -webkit-text-stroke-width: 0.5px;
